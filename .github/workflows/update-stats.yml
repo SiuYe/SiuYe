@@ -2,8 +2,8 @@ name: Waka Readme
 
 on:
   schedule:
-    # Every 30 mins
-    - cron: '/30 * * * *'
+    # Every 5 mins
+    - cron: '/5 * * * *'
 
 jobs:
   update-readme:
