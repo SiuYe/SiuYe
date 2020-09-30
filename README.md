@@ -10,27 +10,39 @@ I am currently pursuing a Bachelor in Software Engineering at Concordia Universi
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/siu-tong-ye/" target="_blank"> <img width="20px" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> </a> <a href="mailto:SiuTongYe@gmail.com" target="_blank"> <img height="20" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /> </a>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-38-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-109-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 462 Contributions in the Year 2020
+ > 
+> 📦 697.8 kB Used in Github's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 1 Public Repository 
+ > 
+> 🔑 19 Private Repositories 
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    34 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.63% 
-🌆 Daytime    132 commits    ████████░░░░░░░░░░░░░░░░░   33.5% 
-🌃 Evening    141 commits    █████████░░░░░░░░░░░░░░░░   35.79% 
-🌙 Night      87 commits     █████░░░░░░░░░░░░░░░░░░░░   22.08%
+🌞 Morning    34 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.59% 
+🌆 Daytime    134 commits    ████████░░░░░░░░░░░░░░░░░   33.84% 
+🌃 Evening    141 commits    █████████░░░░░░░░░░░░░░░░   35.61% 
+🌙 Night      87 commits     █████░░░░░░░░░░░░░░░░░░░░   21.97%
 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday       46 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.68% 
-Tuesday      105 commits    ██████░░░░░░░░░░░░░░░░░░░   26.65% 
-Wednesday    77 commits     █████░░░░░░░░░░░░░░░░░░░░   19.54% 
-Thursday     90 commits     █████░░░░░░░░░░░░░░░░░░░░   22.84% 
-Friday       30 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.61% 
-Saturday     15 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.81% 
-Sunday       31 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.87%
+Monday       46 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.62% 
+Tuesday      105 commits    ██████░░░░░░░░░░░░░░░░░░░   26.52% 
+Wednesday    79 commits     █████░░░░░░░░░░░░░░░░░░░░   19.95% 
+Thursday     90 commits     █████░░░░░░░░░░░░░░░░░░░░   22.73% 
+Friday       30 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.58% 
+Saturday     15 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.79% 
+Sunday       31 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.83%
 
 ```
 
@@ -38,8 +50,6 @@ Sunday       31 commits     ██░░░░░░░░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: America/Toronto
-
 💬 Programming Languages: 
 No Activity Tracked This Week
 
