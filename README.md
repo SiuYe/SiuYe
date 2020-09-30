@@ -1,10 +1,5 @@
 ### Hi there 👋
-
-<!--
-**SiuYe/SiuYe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
--->
-I am currently pursuing a Bachelor in Software Engineering at Concordia University.
+I am currently pursuing a Bachelor in Software Engineering at Concordia University.🏫
 
 - 🔭 I’m currently working on my GitHub, School Project.
 - 🌱 I’m currently learning Java, Python, and Data Structure.
@@ -13,3 +8,6 @@ I am currently pursuing a Bachelor in Software Engineering at Concordia Universi
 - 💬 Ask me about anything! 😄
 - ⚡ Fun fact: I enjoy bouldering! 🧗‍
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/siu-tong-ye/" target="_blank"> <img width="20px" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> </a> <a href="mailto:SiuTongYe@gmail.com" target="_blank"> <img height="20" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /> </a>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
