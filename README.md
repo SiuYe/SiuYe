@@ -12,4 +12,4 @@ I am currently pursuing a Bachelor in Software Engineering at Concordia Universi
 - 🤔 I’m looking for help to find an internship for summer 2020.
 - 💬 Ask me about anything! 😄
 - ⚡ Fun fact: I enjoy bouldering! 🧗‍
-- 📫 How to reach me: LinkedIn! <a href="https://www.linkedin.com/in/siu-tong-ye/"> <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> </a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/siu-tong-ye/"> <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> </a>
