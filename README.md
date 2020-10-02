@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am currently pursuing a Bachelor in Software Engineering at Concordia University.🏫
 
-- 🔭 I’m currently working on my GitHub, School Project.
+- 🔭 I’m currently working on my GitHub, School Project, LeetCode.
 - 🌱 I’m currently learning Java, Python, and Data Structure.
 - 👯 I’m looking to collaborate on any data structure related project.
 - 🤔 I’m looking for help to find an internship for summer 2020.
