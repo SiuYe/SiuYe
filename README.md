@@ -10,11 +10,11 @@ I am currently pursuing a Bachelor in Software Engineering at Concordia Universi
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/siu-tong-ye/" target="_blank"> <img width="20px" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> </a> <a href="mailto:SiuTongYe@gmail.com" target="_blank"> <img height="20" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /> </a>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-50-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-47-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 629 Contributions in the Year 2020
+> 🏆 627 Contributions in the Year 2020
  > 
 > 📦 699.1 kB Used in Github's Storage 
  > 
