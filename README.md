@@ -14,7 +14,7 @@ I am currently pursuing a Bachelor in Software Engineering at Concordia Universi
 
 **🐱 My Github Data** 
 
-> 🏆 670 Contributions in the Year 2020
+> 🏆 681 Contributions in the Year 2020
  > 
 > 📦 699.2 kB Used in Github's Storage 
  > 
