@@ -14,7 +14,7 @@ I am currently pursuing a Bachelor in Software Engineering at Concordia Universi
 
 **🐱 My Github Data** 
 
-> 🏆 750 Contributions in the Year 2020
+> 🏆 755 Contributions in the Year 2020
  > 
 > 📦 699.7 kB Used in Github's Storage 
  > 
@@ -37,8 +37,8 @@ I am currently pursuing a Bachelor in Software Engineering at Concordia Universi
 
 ```text
 Monday       59 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.19% 
-Tuesday      134 commits    █████░░░░░░░░░░░░░░░░░░░░   23.14% 
-Wednesday    122 commits    █████░░░░░░░░░░░░░░░░░░░░   21.07% 
+Tuesday      129 commits    █████░░░░░░░░░░░░░░░░░░░░   22.28% 
+Wednesday    127 commits    █████░░░░░░░░░░░░░░░░░░░░   21.93% 
 Thursday     128 commits    █████░░░░░░░░░░░░░░░░░░░░   22.11% 
 Friday       50 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.64% 
 Saturday     28 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.84% 
