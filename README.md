@@ -20,9 +20,9 @@ I am currently pursuing a Bachelor in Software Engineering at Concordia Universi
  > 
 > 💼 Opted to Hire
  > 
-> 📜 1 Public Repository 
+1 Public Repository 
  > 
-> 🔑 23 Private Repositories 
+> 🔑 23 Private Repositories  
 
 **I'm a Night 🦉** 
 
