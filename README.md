@@ -38,10 +38,10 @@ I am currently pursuing a Bachelor in Software Engineering at Concordia Universi
 ```text
 Monday       59 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.19% 
 Tuesday      114 commits    █████░░░░░░░░░░░░░░░░░░░░   19.69% 
-Wednesday    124 commits    █████░░░░░░░░░░░░░░░░░░░░   21.42% 
+Wednesday    123 commits    █████░░░░░░░░░░░░░░░░░░░░   21.24% 
 Thursday     131 commits    █████░░░░░░░░░░░░░░░░░░░░   22.63% 
 Friday       60 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.36% 
-Saturday     37 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.39% 
+Saturday     38 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.56% 
 Sunday       54 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.33%
 
 ```
