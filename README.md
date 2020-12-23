@@ -14,7 +14,7 @@ I am currently pursuing a Bachelor in Software Engineering at Concordia Universi
 
 **🐱 My Github Data** 
 
-> 🏆 949 Contributions in the Year 2020
+> 🏆 952 Contributions in the Year 2020
  > 
 > 📦 700.0 kB Used in Github's Storage 
  > 
@@ -28,9 +28,9 @@ I am currently pursuing a Bachelor in Software Engineering at Concordia Universi
 
 ```text
 🌞 Morning    38 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.33% 
-🌆 Daytime    164 commits    ██████░░░░░░░░░░░░░░░░░░░   27.33% 
+🌆 Daytime    167 commits    ███████░░░░░░░░░░░░░░░░░░   27.83% 
 🌃 Evening    271 commits    ███████████░░░░░░░░░░░░░░   45.17% 
-🌙 Night      127 commits    █████░░░░░░░░░░░░░░░░░░░░   21.17%
+🌙 Night      124 commits    █████░░░░░░░░░░░░░░░░░░░░   20.67%
 
 ```
 📅 **I'm Most Productive on Thursday** 
