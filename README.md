@@ -12,7 +12,7 @@ I am currently pursuing a Bachelor in Software Engineering at Concordia Universi
 
 **🐱 My Github Data** 
 
-> 🏆 20 Contributions in the Year 2021
+> 🏆 22 Contributions in the Year 2021
  > 
 > 📦 1.1 MB Used in Github's Storage 
  > 
@@ -20,7 +20,7 @@ I am currently pursuing a Bachelor in Software Engineering at Concordia Universi
  > 
 > 📜 1 Public Repository 
  > 
-> 🔑 27 Private Repositories  
+> 🔑 28 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
