@@ -8,11 +8,11 @@ I am currently pursuing a Bachelor in Software Engineering at Concordia Universi
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/siu-tong-ye/" target="_blank"> <img width="20px" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> </a> <a href="mailto:SiuTongYe@gmail.com" target="_blank"> <img height="20" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /> </a>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 197 Contributions in the Year 2021
+> 🏆 198 Contributions in the Year 2021
  > 
 > 📦 1.2 MB Used in Github's Storage 
  > 
@@ -20,7 +20,7 @@ I am currently pursuing a Bachelor in Software Engineering at Concordia Universi
  > 
 > 📜 1 Public Repository 
  > 
-> 🔑 41 Private Repositories  
+> 🔑 42 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
@@ -49,20 +49,20 @@ Sunday       51 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               3 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   30.21% 
-Markdown                 2 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   24.39% 
-JavaScript               2 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   19.01% 
-XML                      1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   10.01% 
-Other                    31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.92%
+TypeScript               3 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   30.3% 
+Markdown                 2 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   24.36% 
+JavaScript               2 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   19.06% 
+XML                      1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   10.04% 
+Other                    31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.93%
 
 🔥 Editors: 
-VS Code                  9 hrs 28 mins       ██████████████████████░░░   88.45% 
-IntelliJ                 1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.55% 
+VS Code                  9 hrs 28 mins       ██████████████████████░░░   88.6% 
+IntelliJ                 1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   11.4% 
 Eclipse                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 💻 Operating System: 
-Windows                  9 hrs 25 mins       ██████████████████████░░░   88.02% 
-Linux                    1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.98%
+Windows                  9 hrs 24 mins       ██████████████████████░░░   87.99% 
+Linux                    1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.01%
 
 ```
 
