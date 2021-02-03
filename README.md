@@ -8,11 +8,11 @@ I am currently pursuing a Bachelor in Software Engineering at Concordia Universi
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/siu-tong-ye/" target="_blank"> <img width="20px" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> </a> <a href="mailto:SiuTongYe@gmail.com" target="_blank"> <img height="20" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /> </a>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 237 Contributions in the Year 2021
+> 🏆 239 Contributions in the Year 2021
  > 
 > 📦 1.2 MB Used in Github's Storage 
  > 
@@ -49,19 +49,19 @@ Sunday       58 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   3 hrs 5 mins        ███████░░░░░░░░░░░░░░░░░░   28.68% 
-TypeScript               3 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   28.51% 
-JavaScript               2 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   18.73% 
-Java                     57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.94% 
-Other                    32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.97%
+TypeScript               3 hrs 18 mins       ████████░░░░░░░░░░░░░░░░░   33.29% 
+Python                   3 hrs 5 mins        ███████░░░░░░░░░░░░░░░░░░   31.14% 
+JavaScript               1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   10.52% 
+Java                     57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.71% 
+Other                    31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.25%
 
 🔥 Editors: 
-VS Code                  6 hrs 37 mins       ███████████████░░░░░░░░░░   61.39% 
-PyCharmCore              3 hrs 10 mins       ███████░░░░░░░░░░░░░░░░░░   29.53% 
-IntelliJ                 58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.08%
+VS Code                  5 hrs 45 mins       ██████████████░░░░░░░░░░░   58.07% 
+PyCharmCore              3 hrs 10 mins       ████████░░░░░░░░░░░░░░░░░   32.07% 
+IntelliJ                 58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.86%
 
 💻 Operating System: 
-Windows                  10 hrs 46 mins      █████████████████████████   100.0%
+Windows                  9 hrs 55 mins       █████████████████████████   100.0%
 
 ```
 
