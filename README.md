@@ -8,13 +8,13 @@ I am currently pursuing a Bachelor in Software Engineering at Concordia Universi
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/siu-tong-ye/" target="_blank"> <img width="20px" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> </a> <a href="mailto:SiuTongYe@gmail.com" target="_blank"> <img height="20" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /> </a>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 248 Contributions in the Year 2021
+> 🏆 249 Contributions in the Year 2021
  > 
-> 📦 1.2 MB Used in Github's Storage 
+> 📦 1.3 MB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -49,19 +49,17 @@ Sunday       58 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               13 mins             ████████░░░░░░░░░░░░░░░░░   34.79% 
-Java                     11 mins             ███████░░░░░░░░░░░░░░░░░░   29.89% 
-Python                   9 mins              █████░░░░░░░░░░░░░░░░░░░░   22.91% 
-JSON                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   7.98% 
-Git Config               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   4.42%
+Java                     11 mins             █████████████░░░░░░░░░░░░   52.24% 
+Python                   9 mins              ██████████░░░░░░░░░░░░░░░   40.03% 
+Git Config               1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   7.73%
 
 🔥 Editors: 
-VS Code                  26 mins             ████████████████░░░░░░░░░   65.68% 
-IntelliJ                 11 mins             ███████░░░░░░░░░░░░░░░░░░   28.34% 
-Eclipse                  2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.98%
+IntelliJ                 11 mins             ████████████░░░░░░░░░░░░░   49.52% 
+VS Code                  9 mins              ██████████░░░░░░░░░░░░░░░   40.03% 
+Eclipse                  2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   10.45%
 
 💻 Operating System: 
-Windows                  39 mins             █████████████████████████   100.0%
+Windows                  22 mins             █████████████████████████   100.0%
 
 ```
 
