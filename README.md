@@ -8,11 +8,11 @@ I am currently pursuing a Bachelor in Software Engineering at Concordia Universi
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/siu-tong-ye/" target="_blank"> <img width="20px" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> </a> <a href="mailto:SiuTongYe@gmail.com" target="_blank"> <img height="20" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /> </a>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 271 Contributions in the Year 2021
+> 🏆 274 Contributions in the Year 2021
  > 
 > 📦 1.3 MB Used in Github's Storage 
  > 
@@ -20,7 +20,7 @@ I am currently pursuing a Bachelor in Software Engineering at Concordia Universi
  > 
 > 📜 1 Public Repository 
  > 
-> 🔑 44 Private Repositories  
+> 🔑 45 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
@@ -49,20 +49,20 @@ Sunday       59 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               5 hrs 2 mins        ██████████████░░░░░░░░░░░   56.83% 
-SQL                      1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.49% 
-Java                     1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.37% 
-XML                      49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.28% 
-Other                    12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.44%
+SQL                      5 hrs 14 mins       ███████████░░░░░░░░░░░░░░   44.9% 
+TypeScript               4 hrs 2 mins        ████████░░░░░░░░░░░░░░░░░   34.62% 
+Java                     1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.94% 
+XML                      49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.08% 
+Other                    10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.46%
 
 🔥 Editors: 
-VS Code                  7 hrs 40 mins       █████████████████████░░░░   86.36% 
-DataGrip                 1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.26% 
-Eclipse                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.34% 
-PyCharmCore              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
+VS Code                  6 hrs 30 mins       ██████████████░░░░░░░░░░░   55.72% 
+DataGrip                 5 hrs 8 mins        ███████████░░░░░░░░░░░░░░   43.99% 
+Eclipse                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.26% 
+PyCharmCore              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
 
 💻 Operating System: 
-Windows                  8 hrs 52 mins       █████████████████████████   100.0%
+Windows                  11 hrs 40 mins      █████████████████████████   100.0%
 
 ```
 
