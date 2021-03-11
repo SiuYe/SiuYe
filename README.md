@@ -8,11 +8,11 @@ I am currently pursuing a Bachelor in Software Engineering at Concordia Universi
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/siu-tong-ye/" target="_blank"> <img width="20px" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> </a> <a href="mailto:SiuTongYe@gmail.com" target="_blank"> <img height="20" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /> </a>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 350 Contributions in the Year 2021
+> 🏆 352 Contributions in the Year 2021
  > 
 > 📦 1.3 MB Used in Github's Storage 
  > 
@@ -20,7 +20,7 @@ I am currently pursuing a Bachelor in Software Engineering at Concordia Universi
  > 
 > 📜 1 Public Repository 
  > 
-> 🔑 50 Private Repositories  
+> 🔑 51 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
@@ -49,20 +49,20 @@ Sunday       66 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Java                     2 hrs 22 mins       ██████████░░░░░░░░░░░░░░░   40.9% 
-Python                   1 hr 18 mins        █████░░░░░░░░░░░░░░░░░░░░   22.51% 
-JavaScript               1 hr 12 mins        █████░░░░░░░░░░░░░░░░░░░░   20.81% 
-Markdown                 24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.94% 
-Git Config               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.75%
+Python                   1 hr 20 mins        ███████░░░░░░░░░░░░░░░░░░   28.73% 
+Java                     1 hr 18 mins        ███████░░░░░░░░░░░░░░░░░░   27.95% 
+JSX                      52 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.71% 
+Markdown                 24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.62% 
+TypeScript               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.51%
 
 🔥 Editors: 
-VS Code                  3 hrs               █████████████░░░░░░░░░░░░   52.01% 
-IntelliJ                 2 hrs 35 mins       ███████████░░░░░░░░░░░░░░   44.59% 
-PyCharmCore              11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.4%
+VS Code                  2 hrs 58 mins       ███████████████░░░░░░░░░░   63.33% 
+IntelliJ                 1 hr 31 mins        ████████░░░░░░░░░░░░░░░░░   32.47% 
+PyCharmCore              11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.2%
 
 💻 Operating System: 
-Windows                  5 hrs 6 mins        ██████████████████████░░░   88.16% 
-Linux                    41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.84%
+Windows                  4 hrs               █████████████████████░░░░   85.38% 
+Linux                    41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.62%
 
 ```
 
