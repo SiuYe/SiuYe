@@ -8,11 +8,11 @@ I am currently pursuing a Bachelor in Software Engineering at Concordia Universi
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/siu-tong-ye/" target="_blank"> <img width="20px" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> </a> <a href="mailto:SiuTongYe@gmail.com" target="_blank"> <img height="20" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /> </a>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 366 Contributions in the Year 2021
+> 🏆 367 Contributions in the Year 2021
  > 
 > 📦 1.3 MB Used in Github's Storage 
  > 
@@ -20,7 +20,7 @@ I am currently pursuing a Bachelor in Software Engineering at Concordia Universi
  > 
 > 📜 1 Public Repository 
  > 
-> 🔑 52 Private Repositories  
+> 🔑 53 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
@@ -49,17 +49,17 @@ Sunday       66 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               7 hrs 18 mins       ██████████████████░░░░░░░   72.19% 
-JSX                      2 hrs 26 mins       ██████░░░░░░░░░░░░░░░░░░░   24.16% 
-JavaScript               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.41% 
-JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.37% 
-Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.78%
+TypeScript               6 hrs 46 mins       ██████████████████░░░░░░░   75.25% 
+JSX                      1 hr 53 mins        █████░░░░░░░░░░░░░░░░░░░░   21.0% 
+JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.54% 
+JavaScript               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.29% 
+Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.87%
 
 🔥 Editors: 
-VS Code                  10 hrs 7 mins       █████████████████████████   100.0%
+VS Code                  8 hrs 59 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  10 hrs 7 mins       █████████████████████████   100.0%
+Windows                  8 hrs 59 mins       █████████████████████████   100.0%
 
 ```
 
