@@ -8,11 +8,11 @@ I am currently pursuing a Bachelor in Software Engineering at Concordia Universi
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/siu-tong-ye/" target="_blank"> <img width="20px" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> </a> <a href="mailto:SiuTongYe@gmail.com" target="_blank"> <img height="20" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /> </a>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 380 Contributions in the Year 2021
+> 🏆 382 Contributions in the Year 2021
  > 
 > 📦 1.4 MB Used in Github's Storage 
  > 
@@ -20,7 +20,7 @@ I am currently pursuing a Bachelor in Software Engineering at Concordia Universi
  > 
 > 📜 1 Public Repository 
  > 
-> 🔑 54 Private Repositories  
+> 🔑 55 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
@@ -49,14 +49,13 @@ Sunday       73 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               4 hrs 33 mins       █████████████████████████   99.97% 
-JSX                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
+TypeScript               1 hr 53 mins        █████████████████████████   100.0%
 
 🔥 Editors: 
-VS Code                  4 hrs 33 mins       █████████████████████████   100.0%
+VS Code                  1 hr 53 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  4 hrs 33 mins       █████████████████████████   100.0%
+Windows                  1 hr 53 mins        █████████████████████████   100.0%
 
 ```
 
