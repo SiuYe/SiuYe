@@ -12,7 +12,7 @@ I am currently pursuing a Bachelor in Software Engineering at Concordia Universi
 
 **🐱 My Github Data** 
 
-> 🏆 384 Contributions in the Year 2021
+> 🏆 386 Contributions in the Year 2021
  > 
 > 📦 1.4 MB Used in Github's Storage 
  > 
@@ -20,7 +20,7 @@ I am currently pursuing a Bachelor in Software Engineering at Concordia Universi
  > 
 > 📜 1 Public Repository 
  > 
-> 🔑 55 Private Repositories  
+> 🔑 56 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
@@ -49,14 +49,14 @@ Sunday       73 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 53 mins        █████████████████████████   99.91% 
+TypeScript               1 hr 52 mins        █████████████████████████   99.91% 
 Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.09%
 
 🔥 Editors: 
-VS Code                  1 hr 53 mins        █████████████████████████   100.0%
+VS Code                  1 hr 52 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  1 hr 53 mins        █████████████████████████   100.0%
+Windows                  1 hr 52 mins        █████████████████████████   100.0%
 
 ```
 
