@@ -8,11 +8,11 @@ I am currently pursuing a Bachelor in Software Engineering at Concordia Universi
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/siu-tong-ye/" target="_blank"> <img width="20px" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> </a> <a href="mailto:SiuTongYe@gmail.com" target="_blank"> <img height="20" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /> </a>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 527 Contributions in the Year 2021
+> 🏆 528 Contributions in the Year 2021
  > 
 > 📦 1.4 MB Used in Github's Storage 
  > 
@@ -49,19 +49,18 @@ Sunday       68 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-PHP                      14 hrs 50 mins      █████████████████████░░░░   85.97% 
-CSS                      1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.28% 
-SQL                      49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.78% 
-JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.57% 
-Git Config               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.41%
+PHP                      10 hrs 52 mins      ████████████████████░░░░░   83.32% 
+CSS                      1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.87% 
+SQL                      41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.34% 
+Git Config               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.47% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-VS Code                  15 hrs 52 mins      ███████████████████████░░   91.85% 
-PhpStorm                 1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   7.86% 
-DataGrip                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.28%
+VS Code                  11 hrs 54 mins      ██████████████████████░░░   91.27% 
+PhpStorm                 1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   8.73%
 
 💻 Operating System: 
-Windows                  17 hrs 16 mins      █████████████████████████   100.0%
+Windows                  13 hrs 3 mins       █████████████████████████   100.0%
 
 ```
 
