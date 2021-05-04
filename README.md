@@ -8,11 +8,11 @@ I am currently pursuing a Bachelor in Software Engineering at Concordia Universi
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/siu-tong-ye/" target="_blank"> <img width="20px" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> </a> <a href="mailto:SiuTongYe@gmail.com" target="_blank"> <img height="20" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /> </a>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 546 Contributions in the Year 2021
+> 🏆 547 Contributions in the Year 2021
  > 
 > 📦 1.4 MB Used in Github's Storage 
  > 
@@ -49,11 +49,11 @@ Sunday       68 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               8 mins              ██████████░░░░░░░░░░░░░░░   42.73% 
-HTML                     6 mins              ███████░░░░░░░░░░░░░░░░░░   31.36% 
-Git Config               3 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.52% 
-CSS                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   4.35% 
-JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   4.26%
+JavaScript               8 mins              ██████████░░░░░░░░░░░░░░░   42.21% 
+HTML                     6 mins              ███████░░░░░░░░░░░░░░░░░░   30.98% 
+Git Config               3 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.31% 
+CSS                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   4.3% 
+JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   4.21%
 
 🔥 Editors: 
 VS Code                  19 mins             █████████████████████████   100.0%
