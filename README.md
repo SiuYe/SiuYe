@@ -8,11 +8,11 @@ I am currently pursuing a Bachelor in Software Engineering at Concordia Universi
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/siu-tong-ye/" target="_blank"> <img width="20px" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> </a> <a href="mailto:SiuTongYe@gmail.com" target="_blank"> <img height="20" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /> </a>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 558 Contributions in the Year 2021
+> 🏆 561 Contributions in the Year 2021
  > 
 > 📦 1.4 MB Used in Github's Storage 
  > 
@@ -49,17 +49,17 @@ Sunday       68 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               32 mins             ████████████████░░░░░░░░░   67.41% 
-HTML                     6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.56% 
-CSS                      4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   9.7% 
-Git Config               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   6.76% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.74%
+JavaScript               1 hr 18 mins        ████████████████████░░░░░   82.63% 
+HTML                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   6.84% 
+CSS                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.82% 
+Git Config               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.41% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.88%
 
 🔥 Editors: 
-VS Code                  48 mins             █████████████████████████   100.0%
+VS Code                  1 hr 35 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  48 mins             █████████████████████████   100.0%
+Windows                  1 hr 35 mins        █████████████████████████   100.0%
 
 ```
 
