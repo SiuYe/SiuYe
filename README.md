@@ -8,17 +8,17 @@ I am currently pursuing a Bachelor in Software Engineering at Concordia Universi
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/siu-tong-ye/" target="_blank"> <img width="20px" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> </a> <a href="mailto:SiuTongYe@gmail.com" target="_blank"> <img height="20" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /> </a>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 563 Contributions in the Year 2021
+> 🏆 562 Contributions in the Year 2021
  > 
 > 📦 1.4 MB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 2 Public Repositories 
+> 📜 1 Public Repository 
  > 
 > 🔑 60 Private Repositories  
  > 
