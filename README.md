@@ -12,7 +12,7 @@ I am currently pursuing a Bachelor in Software Engineering at Concordia Universi
 
 **🐱 My GitHub Data** 
 
-> 🏆 607 Contributions in the Year 2021
+> 🏆 608 Contributions in the Year 2021
  > 
 > 📦 1.5 MB Used in GitHub's Storage 
  > 
@@ -72,5 +72,5 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 02/10/2021
+ Last Updated on 03/10/2021
 <!--END_SECTION:waka-->
