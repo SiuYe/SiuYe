@@ -8,7 +8,7 @@ I am currently pursuing a Bachelor in Software Engineering at Concordia Universi
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/siu-tong-ye/" target="_blank"> <img width="20px" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> </a> <a href="mailto:SiuTongYe@gmail.com" target="_blank"> <img height="20" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /> </a>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
@@ -49,17 +49,17 @@ Sunday       118 commits    ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   4 hrs 20 mins       ████████████████████░░░░░   82.36% 
-Markdown                 30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.65% 
-Text                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.79% 
-JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.23% 
-Git Config               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.58%
+Python                   4 hrs 31 mins       ████████████████████░░░░░   82.79% 
+Markdown                 31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.49% 
+Text                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.66% 
+JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.16% 
+Git Config               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.52%
 
 🔥 Editors: 
-VS Code                  5 hrs 16 mins       █████████████████████████   100.0%
+VS Code                  5 hrs 28 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  5 hrs 16 mins       █████████████████████████   100.0%
+Windows                  5 hrs 28 mins       █████████████████████████   100.0%
 
 ```
 
@@ -76,5 +76,5 @@ Jupyter Notebook         3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 15/10/2021
+ Last Updated on 16/10/2021
 <!--END_SECTION:waka-->
