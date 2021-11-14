@@ -12,7 +12,7 @@ I am currently pursuing a Bachelor in Software Engineering at Concordia Universi
 
 **🐱 My GitHub Data** 
 
-> 🏆 633 Contributions in the Year 2021
+> 🏆 634 Contributions in the Year 2021
  > 
 > 📦 1.5 MB Used in GitHub's Storage 
  > 
@@ -73,5 +73,5 @@ Jupyter Notebook         3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 13/11/2021
+ Last Updated on 14/11/2021
 <!--END_SECTION:waka-->
