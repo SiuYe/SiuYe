@@ -18,9 +18,9 @@ I am currently pursuing a Bachelor in Software Engineering at Concordia Universi
  > 
 > 💼 Opted to Hire
  > 
-> 📜 2 Public Repositories 
+> 📜 1 Public Repository 
  > 
-> 🔑 73 Private Repositories  
+> 🔑 74 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
@@ -72,5 +72,5 @@ HTML                     5 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 24/12/2021
+ Last Updated on 25/12/2021
 <!--END_SECTION:waka-->
