@@ -8,7 +8,7 @@ I am currently pursuing a Bachelor in Software Engineering at Concordia Universi
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/siu-tong-ye/" target="_blank"> <img width="20px" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> </a> <a href="mailto:SiuTongYe@gmail.com" target="_blank"> <img height="20" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /> </a>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
 
 **🐱 My GitHub Data** 
 
@@ -72,5 +72,5 @@ HTML                     5 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 10/01/2022
+ Last Updated on 11/01/2022
 <!--END_SECTION:waka-->
