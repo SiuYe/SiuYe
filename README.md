@@ -8,11 +8,11 @@ I am currently pursuing a Bachelor in Software Engineering at Concordia Universi
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/siu-tong-ye/" target="_blank"> <img width="20px" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> </a> <a href="mailto:SiuTongYe@gmail.com" target="_blank"> <img height="20" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /> </a>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 3 Contributions in the Year 2022
+> 🏆 8 Contributions in the Year 2022
  > 
 > 📦 1.5 MB Used in GitHub's Storage 
  > 
@@ -25,22 +25,22 @@ I am currently pursuing a Bachelor in Software Engineering at Concordia Universi
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    33 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.9% 
-🌆 Daytime    95 commits     █████░░░░░░░░░░░░░░░░░░░░   19.87% 
-🌃 Evening    283 commits    ██████████████░░░░░░░░░░░   59.21% 
-🌙 Night      67 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.02%
+🌞 Morning    33 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.35% 
+🌆 Daytime    89 commits     █████░░░░░░░░░░░░░░░░░░░░   19.82% 
+🌃 Evening    271 commits    ███████████████░░░░░░░░░░   60.36% 
+🌙 Night      56 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.47%
 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday       77 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.11% 
-Tuesday      97 commits     █████░░░░░░░░░░░░░░░░░░░░   20.29% 
-Wednesday    54 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.3% 
-Thursday     53 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.09% 
-Friday       59 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.34% 
-Saturday     72 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.06% 
-Sunday       66 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.81%
+Monday       79 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.59% 
+Tuesday      84 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.71% 
+Wednesday    44 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.8% 
+Thursday     51 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.36% 
+Friday       53 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.8% 
+Saturday     72 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.04% 
+Sunday       66 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.7%
 
 ```
 
@@ -74,5 +74,5 @@ HTML                     5 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 23/01/2022 00:36:03 UTC
+ Last Updated on 25/01/2022 00:40:21 UTC
 <!--END_SECTION:waka-->
