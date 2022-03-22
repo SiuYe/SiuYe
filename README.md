@@ -49,13 +49,14 @@ Sunday       42 commits     ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   0 secs              █████████████████████████   100.0% 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  0 secs              █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  0 secs              █████████████████████████   100.0%
 
 ```
 
@@ -72,5 +73,5 @@ HTML                     5 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 20/03/2022 00:44:47 UTC
+ Last Updated on 22/03/2022 00:47:00 UTC
 <!--END_SECTION:waka-->
