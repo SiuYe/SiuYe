@@ -10,7 +10,7 @@ I am currently pursuing a Bachelor in Software Engineering at Concordia Universi
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -74,5 +74,5 @@ HTML                     5 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 16/07/2022 01:06:32 UTC
+ Last Updated on 17/07/2022 01:06:26 UTC
 <!--END_SECTION:waka-->
