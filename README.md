@@ -8,7 +8,7 @@ I am currently pursuing a Bachelor in Software Engineering at Concordia Universi
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/siu-tong-ye/" target="_blank"> <img width="20px" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> </a> <a href="mailto:SiuTongYe@gmail.com" target="_blank"> <img height="20" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /> </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-278%20hrs%201%20min-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -24,6 +24,43 @@ I am currently pursuing a Bachelor in Software Engineering at Concordia Universi
  > 
 > 🔑 75 Private Repositories  
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    20 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.42% 
+🌆 Daytime    20 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.42% 
+🌃 Evening    51 commits     ████████████░░░░░░░░░░░░░   49.51% 
+🌙 Night      12 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.65%
+
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday       33 commits     ████████░░░░░░░░░░░░░░░░░   32.04% 
+Tuesday      34 commits     ████████░░░░░░░░░░░░░░░░░   33.01% 
+Wednesday    15 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.56% 
+Thursday     2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.94% 
+Friday       5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.85% 
+Saturday     12 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.65% 
+Sunday       2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.94%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
 **I Mostly Code in Java** 
 
 ```text
@@ -37,5 +74,5 @@ HTML                     5 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 05/09/2022 01:18:50 UTC
+ Last Updated on 06/09/2022 01:14:03 UTC
 <!--END_SECTION:waka-->
