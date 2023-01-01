@@ -14,7 +14,7 @@ I am currently pursuing a Bachelor in Software Engineering at Concordia Universi
 
 **🐱 My GitHub Data** 
 
-> 🏆 34 Contributions in the Year 2022
+> 🏆 0 Contributions in the Year 2023
  > 
 > 📦 1.5 MB Used in GitHub's Storage 
  > 
@@ -74,5 +74,5 @@ HTML                     5 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 31/12/2022 00:49:17 UTC
+ Last Updated on 01/01/2023 00:58:54 UTC
 <!--END_SECTION:waka-->
