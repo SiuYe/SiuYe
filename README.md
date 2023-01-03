@@ -24,43 +24,6 @@ I am currently pursuing a Bachelor in Software Engineering at Concordia Universi
  > 
 > 🔑 75 Private Repositories  
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.56% 
-🌆 Daytime    12 commits     ███████░░░░░░░░░░░░░░░░░░   30.77% 
-🌃 Evening    20 commits     ████████████░░░░░░░░░░░░░   51.28% 
-🌙 Night      6 commits      ███░░░░░░░░░░░░░░░░░░░░░░   15.38%
-
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday       7 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.95% 
-Tuesday      14 commits     █████████░░░░░░░░░░░░░░░░   35.9% 
-Wednesday    7 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.95% 
-Thursday     1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.56% 
-Friday       3 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% 
-Saturday     5 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.82% 
-Sunday       2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.13%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
 **I Mostly Code in Java** 
 
 ```text
@@ -74,5 +37,5 @@ HTML                     5 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 02/01/2023 00:51:41 UTC
+ Last Updated on 03/01/2023 00:50:54 UTC
 <!--END_SECTION:waka-->
