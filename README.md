@@ -49,14 +49,13 @@ Sunday                   246 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 0 secs              ███████████████░░░░░░░░░░   60.31 % 
-Python                   0 secs              ██████████░░░░░░░░░░░░░░░   39.69 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -72,5 +71,5 @@ TypeScript               3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 22/04/2023 00:53:14 UTC
+ Last Updated on 23/04/2023 00:55:47 UTC
 <!--END_SECTION:waka-->
