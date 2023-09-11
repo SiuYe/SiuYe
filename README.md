@@ -1,10 +1,7 @@
 ### Hi Everyone 👋
-I am currently pursuing a Bachelor in Software Engineering at Concordia University.🏫
+I possess diverse work experience and hold a Bachelor's degree in Software Engineering from Concordia University. 🏫
 
-- 🌱 I’m currently enhancing my Java, React.js, Python, and Data Structure skills.
-- ✋ I’m seeking an internship for Summer 2020.
 - 💬 Ask me about anything! 😄
-- ⚡ Fun fact: I enjoy bouldering! 🧗‍
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/siu-tong-ye/" target="_blank"> <img width="20px" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> </a> <a href="mailto:SiuTongYe@gmail.com" target="_blank"> <img height="20" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /> </a>
 
 <!--START_SECTION:waka-->
