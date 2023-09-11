@@ -4,7 +4,8 @@ I possess diverse work experience and hold a Bachelor's degree in Software Engin
 - 💬 Ask me about anything! 😄
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/siu-tong-ye/" target="_blank"> <img width="20px" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> </a> <a href="mailto:SiuTongYe@gmail.com" target="_blank"> <img height="20" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /> </a>
 
-** My LeetCode Data** 
+**My LeetCode Data** 
+
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Siu_Ye)
 
 <!--START_SECTION:waka-->
