@@ -9,8 +9,6 @@ I possess diverse work experience and hold a Bachelor's degree in Software Engin
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Siu_Ye)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-283%20hrs%205%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 **🐱 My GitHub Data** 
@@ -25,40 +23,6 @@ I possess diverse work experience and hold a Bachelor's degree in Software Engin
  > 
 > 🔑 79 Private Repository 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                109 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
-🌆 Daytime                516 commits         ███████░░░░░░░░░░░░░░░░░░   27.12 % 
-🌃 Evening                916 commits         ████████████░░░░░░░░░░░░░   48.13 % 
-🌙 Night                  362 commits         █████░░░░░░░░░░░░░░░░░░░░   19.02 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   313 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
-Tuesday                  358 commits         █████░░░░░░░░░░░░░░░░░░░░   18.81 % 
-Wednesday                302 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
-Thursday                 312 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
-Friday                   187 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
-Saturday                 185 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
-Sunday                   246 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-JavaScript               4 mins              █████████████████████████   100.00 % 
-
-🔥 Editors: 
-VS Code                  4 mins              █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  4 mins              █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Java** 
 
 ```text
@@ -72,5 +36,5 @@ TypeScript               4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 18/11/2023 00:47:27 UTC
+ Last Updated on 23/11/2023 00:46:14 UTC
 <!--END_SECTION:waka-->
