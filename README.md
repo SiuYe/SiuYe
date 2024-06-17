@@ -9,6 +9,8 @@ I possess diverse work experience and hold a Bachelor's degree in Software Engin
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Siu_Ye)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-288%20hrs%2028%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -23,6 +25,40 @@ I possess diverse work experience and hold a Bachelor's degree in Software Engin
  > 
 > 🔑 82 Private Repository 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                109 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
+🌆 Daytime                533 commits         ███████░░░░░░░░░░░░░░░░░░   27.79 % 
+🌃 Evening                912 commits         ████████████░░░░░░░░░░░░░   47.55 % 
+🌙 Night                  364 commits         █████░░░░░░░░░░░░░░░░░░░░   18.98 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   310 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
+Tuesday                  360 commits         █████░░░░░░░░░░░░░░░░░░░░   18.77 % 
+Wednesday                309 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
+Thursday                 318 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
+Friday                   190 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
+Saturday                 185 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
+Sunday                   246 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Java** 
 
 ```text
@@ -36,5 +72,5 @@ TypeScript               4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 16/06/2024 00:55:15 UTC
+ Last Updated on 17/06/2024 00:53:12 UTC
 <!--END_SECTION:waka-->
