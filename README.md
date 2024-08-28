@@ -17,8 +17,6 @@ I possess diverse work experience and hold a Bachelor's degree in Software Engin
 
 > 📦 1.5 MB Used in GitHub's Storage 
  > 
-> 🏆 42 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 1 Public Repository 
@@ -74,5 +72,5 @@ TypeScript               4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 27/08/2024 00:55:54 UTC
+ Last Updated on 28/08/2024 00:56:11 UTC
 <!--END_SECTION:waka-->
