@@ -9,7 +9,7 @@ I possess diverse work experience and hold a Bachelor's degree in Software Engin
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Siu_Ye)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-291%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-293%20hrs%2036%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -50,15 +50,16 @@ Sunday                   246 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   16 mins             ███████████████████░░░░░░   77.95 % 
-Markdown                 4 mins              ██████░░░░░░░░░░░░░░░░░░░   22.01 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Python                   1 hr 56 mins        █████████████████████░░░░   85.54 % 
+Markdown                 15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
+Text                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  21 mins             █████████████████████████   100.00 % 
+VS Code                  2 hrs 16 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  21 mins             █████████████████████████   100.00 % 
+Windows                  2 hrs 16 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -74,5 +75,5 @@ TypeScript               4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 14/09/2024 00:56:59 UTC
+ Last Updated on 15/09/2024 01:03:48 UTC
 <!--END_SECTION:waka-->
