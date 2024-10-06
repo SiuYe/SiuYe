@@ -9,15 +9,13 @@ I possess diverse work experience and hold a Bachelor's degree in Software Engin
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Siu_Ye)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-294%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-295%20hrs%2037%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.5 MB Used in GitHub's Storage 
- > 
-> 🏆 44 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -50,13 +48,15 @@ Sunday                   246 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   17 mins             █████████████████████████   100.00 % 
+Python                   1 hr 12 mins        ████████████████████████░   96.08 % 
+Text                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
 
 🔥 Editors: 
-VS Code                  17 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 15 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  17 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 15 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -72,5 +72,5 @@ TypeScript               4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 05/10/2024 01:00:46 UTC
+ Last Updated on 06/10/2024 01:05:17 UTC
 <!--END_SECTION:waka-->
