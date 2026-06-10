@@ -25,6 +25,40 @@ I possess diverse work experience and hold a Bachelor's degree in Software Engin
  > 
 > 🔑 83 Private Repository 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                104 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
+🌆 Daytime                499 commits         ███████░░░░░░░░░░░░░░░░░░   28.05 % 
+🌃 Evening                860 commits         ████████████░░░░░░░░░░░░░   48.34 % 
+🌙 Night                  316 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   272 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
+Tuesday                  333 commits         █████░░░░░░░░░░░░░░░░░░░░   18.72 % 
+Wednesday                295 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
+Thursday                 305 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
+Friday                   179 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
+Saturday                 173 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
+Sunday                   222 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Java** 
 
 ```text
@@ -38,5 +72,5 @@ TypeScript               4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 09/06/2026 02:39:21 UTC
+ Last Updated on 10/06/2026 02:53:10 UTC
 <!--END_SECTION:waka-->
