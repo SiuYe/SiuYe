@@ -11,7 +11,7 @@ I possess diverse work experience and hold a Bachelor's degree in Software Engin
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-295%20hrs%2037%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -72,5 +72,5 @@ TypeScript               4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 11/06/2026 03:02:56 UTC
+ Last Updated on 12/06/2026 02:59:54 UTC
 <!--END_SECTION:waka-->
